@@ -2,7 +2,9 @@ package GC_JavaLabs;
 
 import java.util.Scanner;
 
-public class ComparingNumbers {
+// Task: Lab 03 - Use conditional statements to automate the decision-making process.
+
+public class ComparingNumbersApp {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
