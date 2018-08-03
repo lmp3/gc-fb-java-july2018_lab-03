@@ -1,4 +1,4 @@
-package GC_JavaLabs;
+package co.grandcircus.lab_03;
 
 import java.util.Scanner;
 
